@@ -1,0 +1,29 @@
+body{
+  background-color: palegreen;
+}
+
+h1{
+font-size: 30px;
+color: #14760F;
+}
+
+h2{
+font-size: 20px;
+color: lime;
+}
+
+.big{
+font-size: 60px;
+}
+
+.uppercase{
+text-transform: uppercase;
+}
+
+.big.uppercase{
+color: darkgreen;
+}
+
+span{
+color: violet;
+}
