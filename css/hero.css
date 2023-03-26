@@ -1,0 +1,55 @@
+body{
+  margin: 0;
+  font-family: halvetica, ariel, sans-serif;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+header{
+  background-color: green;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+h1, h2{
+  font-family: 'Alfa Slab One', cursive;
+}
+
+header h1{
+  color: black;
+  font-size: 50px;
+}
+
+main{
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+main img{
+  max-width: 100%;
+}
+
+h2{
+  font-size: 35px;
+  color: green;
+  margin-top: 50px;
+}
+
+a{
+  color: green;
+}
+a:hover{
+  color: #00cd00;
+}
+
+footer{
+  background-color: green;
+  text-align: center;
+  color: white;
+  padding: 50px;
+}
+
+footer p{
+  margin: 0;
+}
